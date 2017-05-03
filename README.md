@@ -1,5 +1,4 @@
 # Readme
 
 Agnostic application here.
-submodule test
-
+Just pure business logic.
